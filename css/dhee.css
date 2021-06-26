@@ -1,0 +1,89 @@
+body {
+  background: url("D:/personal site D/images/bg.png");
+  background-size: contain;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+
+  height: 100%;
+}
+.navbar {
+  font-family: 'Roboto Slab', serif;
+  color: #000000;
+  margin-top: 3%;
+  height: 110px;
+}
+
+.navbar-brand{
+  margin-left: 7rem;
+  margin-right: 50rem;
+}
+
+
+
+p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+  padding: 2%;
+}
+
+h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 5rem;
+}
+
+h4 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+  margin: 2%;
+}
+
+.DP {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 3%;
+}
+
+.what{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#ad {
+  height: 600px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+}
+
+#intro{
+  height: 700px;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #EDEEF7;
+  padding: 2%;
+}
+
+#testimonials{
+  height: 600px;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#contact{
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 500px;
+  padding-top: 4rem;
+  margin-top: 7%;
+}
+
+i{
+  color: #343A40;
+  padding: 2%;
+}
+i:hover {
+  color: #EDEEF7;
+}
